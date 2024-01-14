@@ -19,27 +19,24 @@ I'm Anupam Moharana, a Software Developer Intern at GE Healthcare in Bengaluru. 
 
 ### 🛠️ Technologies & Tools
 
-- [Tech Stack 1]
-- [Tech Stack 2]
-- [Tech Stack 3]
+- Java
+- Python
+- Go
+- HTML, CSS, JavaScript, Canva, Adobe Creative Suite(for UI/UX)
+- Google Cloud Platform
 
 ### 🌟 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam5972&show_icons=true&theme=radical)
 
-### 📝 Latest Blog Posts
-
-- [Blog Post 1 Title](Link to Blog Post 1)
-- [Blog Post 2 Title](Link to Blog Post 2)
-
 ### 📚 Recent Projects
 
-- [Project 1](Link to Project 1)
-- [Project 2](Link to Project 2)
+- [AI Enabled FinTech B2B Cloud Application]https://drive.google.com/file/d/14eu69K8U0noUZqoygxrV7wE8EltIkuYk/view?usp=sharing
+- [Dietify: A Diet Tracker App UI/UX]https://www.figma.com/proto/v3VGzcf2UI4DtSbqZLeasc/Dietify-(Community)?page-id=0%3A1&type=design&node-id=13-46&viewport=33%2C437%2C0.22&t=CbVtCl4MYn63krPH-1&scaling=scale-down&starting-point-node-id=8%3A92&show-proto-sidebar=1&mode=design
 
 ### 🎧 Fun Facts
 
-- I love [Hobbies or Fun Facts].
-- Favorite Quote: [Your Favorite Quote]
+- I love playing PC games such as Valorant, Genshin Impact, GTA V.
+- Favorite Quote: It's not a bug, it's a feature.
 
 Thanks for stopping by! 😊
