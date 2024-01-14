@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 
-I'm Anupam Moharana, an Intern at GE Healthcare in Bengaluru. Welcome to my GitHub profile!
+I'm Anupam Moharana, a Software Developer Intern at GE Healthcare in Bengaluru. Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
