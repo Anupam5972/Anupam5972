@@ -1,23 +1,21 @@
-# [Your Name]
+# Anupam Moharana
 
 ## 👋 Hello, World!
 
-I'm [Your Name], a [Your Occupation/Role] based in [Your Location]. Welcome to my GitHub profile!
+I'm Anupam Moharana, an Intern at GE Healthcare in Bengaluru. Welcome to my GitHub profile!
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on [Your Current Projects or Focus].
-- 🌱 I'm passionate about [Your Interests or Technologies].
-- 👯 I'm always open to collaborating on [Types of Projects].
-- 💬 Ask me about [Your Expertise or Areas of Knowledge].
-- 📫 How to reach me: [Your Email or Social Media Handles].
-- 😄 Pronouns: [Your Pronouns]
+- 🔭 I'm working on Java Web Development projects, crafting user interfaces focusing on UX, and diving into Cloud Development.
+- 🌱 I'm passionate about building robust backend and server-side applications using Go.
+- 👯 I'm always open to collaborating on Java projects, UI/UX design, Cloud solutions, and anything related to Go.
+- 💬 Ask me about Java, UI/UX best practices, Cloud technologies (especially Kubernetes and Docker), and Go programming.
+- 📫 How to reach me: anupam.moharana205@gmail.com.
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](Your LinkedIn Profile Link)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](Your Twitter Profile Link)
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](Your Personal Website Link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([Your LinkedIn Profile Link](https://www.linkedin.com/in/anupam-moharana/))
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)]([Your Personal Website Link](https://bit.ly/Anupam2002))
 
 ### 🛠️ Technologies & Tools
 
