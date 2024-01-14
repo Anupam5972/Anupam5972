@@ -14,8 +14,8 @@ I'm Anupam Moharana, an Intern at GE Healthcare in Bengaluru. Welcome to my GitH
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([Your LinkedIn Profile Link](https://www.linkedin.com/in/anupam-moharana/))
-[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)]([Your Personal Website Link](https://bit.ly/Anupam2002))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/anupam-moharana/)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://bit.ly/Anupam2002)
 
 ### 🛠️ Technologies & Tools
 
