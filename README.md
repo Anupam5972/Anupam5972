@@ -27,7 +27,7 @@ I'm [Your Name], a [Your Occupation/Role] based in [Your Location]. Welcome to m
 
 ### 🌟 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupam5972&show_icons=true&theme=radical)
 
 ### 📝 Latest Blog Posts
 
