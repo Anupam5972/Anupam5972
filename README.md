@@ -31,8 +31,9 @@ I'm Anupam Moharana, a Software Developer Intern at GE Healthcare in Bengaluru. 
 
 ### 📚 Recent Projects
 
+- [React Go CRUD Application](https://github.com/Anupam5972/go-react-crud-app)
 - [AI Enabled FinTech B2B Cloud Application](https://drive.google.com/file/d/14eu69K8U0noUZqoygxrV7wE8EltIkuYk/view?usp=sharing)
-- [Dietify: A Diet Tracker App UI/UX](https://www.figma.com/proto/v3VGzcf2UI4DtSbqZLeasc/Dietify-(Community)?page-id=0%3A1&type=design&node-id=13-46&viewport=33%2C437%2C0.22&t=CbVtCl4MYn63krPH-1&scaling=scale-down&starting-point-node-id=8%3A92&show-proto-sidebar=1&mode=design)
+-  [Dietify: A Diet Tracker App UI/UX](https://www.figma.com/proto/v3VGzcf2UI4DtSbqZLeasc/Dietify-(Community)?page-id=0%3A1&type=design&node-id=13-46&viewport=33%2C437%2C0.22&t=CbVtCl4MYn63krPH-1&scaling=scale-down&starting-point-node-id=8%3A92&show-proto-sidebar=1&mode=design)
 
 ### 🎧 Fun Facts
 
