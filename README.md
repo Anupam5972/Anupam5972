@@ -24,6 +24,7 @@ I'm Anupam Moharana, a Software Developer Intern at GE Healthcare in Bengaluru. 
 - Go
 - HTML, CSS, JavaScript, Canva, Adobe Creative Suite(for UI/UX)
 - Google Cloud Platform
+- Postgres
 
 ### 🌟 GitHub Stats
 
