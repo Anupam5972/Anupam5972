@@ -11,7 +11,7 @@
 
 <img align="right" height="150" src="gif/profile.gif"  />
 
-###
+### 🛠️ Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
+### 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.instagram.com/anupam_moharana/">
@@ -56,7 +56,6 @@
   <a href="mailto:anupam205@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
   </a>
-  <br>
   <a href="https://www.linkedin.com/in/anupam-moharana/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
@@ -68,10 +67,28 @@
   </a>
 </div>
 
-
-###
-
 <br clear="both">
 
+## 👋 Hello, World!
 
-###
+I'm Anupam Moharana, a Software Developer Intern at GE Healthcare in Bengaluru. Welcome to my GitHub profile!
+
+### 🚀 About Me
+
+- 🔭 I'm working on Java Web Development projects, crafting user interfaces focusing on UX, and diving into Cloud Development.
+- 🌱 I'm passionate about building robust backend and server-side applications using Go.
+- 👯 I'm always open to collaborating on Java projects, UI/UX design, Cloud solutions, and anything related to Go.
+- 💬 Ask me about Java, UI/UX best practices, Cloud technologies (especially Kubernetes and Docker), and Go programming.
+
+### 📚 Recent Projects
+
+- [React Go CRUD Application](https://github.com/Anupam5972/go-react-crud-app)
+- [AI Enabled FinTech B2B Cloud Application](https://drive.google.com/file/d/14eu69K8U0noUZqoygxrV7wE8EltIkuYk/view?usp=sharing)
+- [Dietify: A Diet Tracker App UI/UX](https://www.figma.com/proto/v3VGzcf2UI4DtSbqZLeasc/Dietify-(Community)?page-id=0%3A1&type=design&node-id=13-46&viewport=33%2C437%2C0.22&t=CbVtCl4MYn63krPH-1&scaling=scale-down&starting-point-node-id=8%3A92&show-proto-sidebar=1&mode=design)
+
+### 🎧 Fun Facts
+
+- I love playing PC games such as Valorant, Genshin Impact, GTA V.
+- Favorite Quote: It's not a bug, it's a feature.
+
+Thanks for stopping by! 😊
