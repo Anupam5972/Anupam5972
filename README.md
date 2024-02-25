@@ -44,26 +44,26 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/anupam_moharana/" target="_blank">
+  <a href="https://www.instagram.com/anupam_moharana/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.twitch.tv/anupam205" target="_blank">
+  <a href="https://www.twitch.tv/anupam205">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
-  <a href="https://discordapp.com/users/anupam_muffin" target="_blank">
+  <a href="https://discordapp.com/users/anupam_muffin">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:anupam205@outlook.com" target="_blank">
+  <a href="mailto:anupam205@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Outlook logo" />
   </a>
   <br>
-  <a href="https://www.linkedin.com/in/anupam-moharana/" target="_blank">
+  <a href="https://www.linkedin.com/in/anupam-moharana/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.snapchat.com/add/targaryen205" target="_blank">
+  <a href="https://www.snapchat.com/add/targaryen205">
     <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=FFFC00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Snapchat logo" />
   </a>
-  <a href="https://tracker.gg/valorant/profile/riot/IloveMuffin%23TAKEN" target="_blank">
+  <a href="https://tracker.gg/valorant/profile/riot/IloveMuffin%23TAKEN">
     <img src="https://img.shields.io/static/v1?message=Valorant&logo=valorant&label=&color=FF4654&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Valorant logo" />
   </a>
 </div>
