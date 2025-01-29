@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anupam and I'm a Software Developer Intern at GE Healthcare, from Bengaluru, IN</h2>
+<h2 align="left">Hi 👋! My name is Anupam and I'm a Software Developer at GE Healthcare, from Bengaluru, IN</h2>
 
 ###
 
