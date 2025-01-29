@@ -44,10 +44,10 @@
 ### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.instagram.com/anupam_moharana/">
+  <a href="https://www.instagram.com/korvynix/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-  <a href="https://www.twitch.tv/anupam205">
+  <a href="https://www.twitch.tv/korvynix">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
   </a>
   <a href="https://discordapp.com/users/anupam_muffin">
